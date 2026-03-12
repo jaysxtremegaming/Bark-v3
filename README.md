@@ -1,12 +1,11 @@
 # Revive of Bark (aka Grate)
-Note from Sakuraa: I really didnt do much, just having a source for future modders to go off of to continue this project. Feel free to fork. I will not add myself to the credits. However if you wish to support me, check out GtagCamera.com.
-
+Note from Jay: This should work with utilia 1.6.28 or higher, this mainly made so people would stay on Utilia and not switch to 
 ### Imaginary Rules
 
-- No modifications that make Bark a cheat
+- No modifications that make Bark a cheat, only use in modded lobbies
 - Do not abuse glitches.
 - Refrain from trolling or deciving other gorillas.
-- Have fun.
+- With Great Power Comes Great Responsibility. 
 
 ### Credits
 
